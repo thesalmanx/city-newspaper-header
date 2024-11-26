@@ -1,5 +1,5 @@
 # The News International Navbar
-- 👀 live demo https://city-newspaper-theme.netlify.app/
+- 👀 live demo https://newspaper-header.netlify.app/
   
 This project is a responsive navigation bar inspired by **The News International**, a prominent news website. The navbar includes links to various sections of the website and features a dropdown menu for business-related topics. It's designed to provide an easy-to-use and stylish navigation experience for users.
 
